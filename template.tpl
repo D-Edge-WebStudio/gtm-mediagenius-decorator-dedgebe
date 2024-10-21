@@ -26,7 +26,7 @@ ___INFO___
   "id": "dedge_gtm_tpl_mediagenius_decorator_dedgebe",
   "version": 1,
   "securityGroups": [],
-  "displayName": "D-EDGE -  Mediagenius - Website tracking - with D-EDGE BE",
+  "displayName": "D-EDGE -  Mediagenius linker - For D-EDGE BEs",
   "categories": ["ATTRIBUTION", "CONVERSIONS"],
   "brand": {
     "id": "brand_dedge",
