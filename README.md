@@ -1,5 +1,21 @@
-# example-community-template
+# D-EDGE MediaGenius Decorator GTM tag template
+## Version for *D-EDGE booking engines*
 
-The example-community-template project is an example of a Google Tag Manager [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109) repository that can be used as a template to generate new community template repositories.
+This repository contains the Google Tag Manager template for **D-EDGE Mediagenius Decorator**.
+This tag ensures proper Advertising click attribution for your D-EDGE Bookings. This allows you and D-EDGE to properly
+measure the ROI of campaigns.
 
-To submit your own template, see the [detailed instructions on how to submit templates to the Community Template Gallery](https://developers.google.com/tag-manager/templates/gallery).
+**Heads up!** This is the version for Mediagenius customers with a **D-EDGE Booking Engine**! 
+
+## What the tag does
+
+It will include scripts managed and hosted by D-EDGE that will capture from your website visits attribution information 
+and propagate it to the Mediagenius attribution system.
+
+## Resources
+
+- [Community Template Gallery template repository](https://support.google.com/tagmanager/answer/9454109)
+- [D-EDGE](https://www.d-edge.com/)
+
+
+
