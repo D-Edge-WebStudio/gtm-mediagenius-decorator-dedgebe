@@ -15,5 +15,5 @@
 homepage: "https://www.d-edge.com/"
 documentation: "https://github.com/D-Edge-WebStudio/gtm-mediagenius-decorator-dedgebe"
 versions:
-  - sha: 231d329ecdb047d736ff91be536abb0a005e665b
+  - sha: 80e16d38069e08923351d8b93e65376cdd6e4faa
     changeNotes: Initial Version
